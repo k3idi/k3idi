@@ -1,16 +1,32 @@
-## Hi there 👋
 
-<!--
-**k3idi/k3idi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are quick links to electronics projects I have completed or am working on.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Dumb Clock
+> State of the project: completed
+
+Further info about this project can be found [here](link).
+
+*add a picture*
+
+
+### Ferrofluid Display
+> State of the project: completed
+
+Further info about this project can be found [here](link).
+
+*add a picture*
+
+
+### Pitch Identifier
+> State of the project: revised
+
+Further info about this project can be found [here](link).
+
+*add pictures of the final product*
+
+
+### LoRa Transceiver (name?)
+> State of the project: planning
+
+Further info about this project can be found [here](link).
