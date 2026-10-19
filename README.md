@@ -5,7 +5,7 @@
 ### Dumb Clock
 > State of the project: completed
 
-Further info about this project can be found [here](link).
+Further info about this project can be found [here](https://github.com/k3idi/Dumb-Clock).
 
 ![Dumb Clock](media/DUMB_CLOCK.jpg)
 
@@ -13,7 +13,7 @@ Further info about this project can be found [here](link).
 ### Ferrofluid Display
 > State of the project: completed
 
-Further info about this project can be found [here](link).
+Further info about this project can be found [here](https://github.com/k3idi/Ferrofluid-Display).
 
 ![Ferrofluid Display](media/FERROFLUID_DISPLAY.jpg)
 
@@ -21,7 +21,7 @@ Further info about this project can be found [here](link).
 ### Pitch Identifier
 > State of the project: revised
 
-Further info about the failed version can be found [here](link) and the revised version can be found [here](link).
+Further info about the failed version can be found [here](https://github.com/k3idi/Pitch-Identifier) and the revised version can be found [here](https://github.com/k3idi/Pitch-Identifier-Revised).
 
 Failed version             |  Revised version
 :-------------------------:|:-------------------------:
@@ -31,7 +31,7 @@ Failed version             |  Revised version
 ### Remote Weather Station
 > State of the project: planning
 
-Further info about this project can be found [here](link).
+Further info about this project can be found [here](https://github.com/k3idi/Remote-Weather-Station).
 
 MCU and power             |  LoRa
 :-------------------------:|:-------------------------:
