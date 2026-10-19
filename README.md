@@ -1,5 +1,5 @@
 
-Here are quick links to electronics projects I have completed or am working on.
+## Here are quick links to electronics projects I have completed or am working on.
 
 
 ### Dumb Clock
@@ -7,7 +7,7 @@ Here are quick links to electronics projects I have completed or am working on.
 
 Further info about this project can be found [here](link).
 
-*add a picture*
+![Dumb Clock](media/DUMB_CLOCK.jpg)
 
 
 ### Ferrofluid Display
@@ -15,18 +15,26 @@ Further info about this project can be found [here](link).
 
 Further info about this project can be found [here](link).
 
-*add a picture*
+![Ferrofluid Display](media/FERROFLUID_DISPLAY.jpg)
 
 
 ### Pitch Identifier
 > State of the project: revised
 
-Further info about this project can be found [here](link).
+Further info about the failed version can be found [here](link) and the revised version can be found [here](link).
 
-*add pictures of the final product*
+Failed version             |  Revised version
+:-------------------------:|:-------------------------:
+![Remote Weather Station](media/PITCH_IDENTIFIER.PNG)  |  ![Remote Weather Station](media/PITCH_IDENTIFIER_REVISED.PNG)
 
 
-### LoRa Transceiver (name?)
+### Remote Weather Station
 > State of the project: planning
 
 Further info about this project can be found [here](link).
+
+MCU and power             |  LoRa
+:-------------------------:|:-------------------------:
+![Remote Weather Station](media/REMOTE_WEATHER_STATION_MCU.PNG)  |  ![Remote Weather Station](media/REMOTE_WEATHER_STATION_LORA.PNG)
+
+
