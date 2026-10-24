@@ -1,5 +1,5 @@
 
-## Here are quick links to electronics projects I have completed or am working on.
+## Electronics projects I have completed or am working on:
 
 
 ### Dumb Clock
