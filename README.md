@@ -25,7 +25,7 @@ Further info about the failed version can be found [here](https://github.com/k3i
 
 Failed version             |  Revised version
 :-------------------------:|:-------------------------:
-![Remote Weather Station](media/PITCH_IDENTIFIER.PNG)  |  ![Remote Weather Station](media/PITCH_IDENTIFIER_REVISED.PNG)
+![Remote Weather Station](media/PITCH_IDENTIFIER.jpg)  |  ![Remote Weather Station](media/PITCH_IDENTIFIER_REVISED.jpg)
 
 
 ### Remote Weather Station
@@ -35,6 +35,6 @@ Further info about this project can be found [here](https://github.com/k3idi/Rem
 
 MCU and power             |  LoRa
 :-------------------------:|:-------------------------:
-![Remote Weather Station](media/REMOTE_WEATHER_STATION_MCU.PNG)  |  ![Remote Weather Station](media/REMOTE_WEATHER_STATION_LORA.PNG)
+![Remote Weather Station](media/REMOTE_WEATHER_STATION_MCU.jpg)  |  ![Remote Weather Station](media/REMOTE_WEATHER_STATION_LORA.jpg)
 
 
