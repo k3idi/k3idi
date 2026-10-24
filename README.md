@@ -3,7 +3,6 @@
 
 
 ### Dumb Clock
-> State of the project: completed
 
 Further info about this project can be found [here](https://github.com/k3idi/Dumb-Clock).
 
@@ -11,7 +10,6 @@ Further info about this project can be found [here](https://github.com/k3idi/Dum
 
 
 ### Ferrofluid Display
-> State of the project: completed
 
 Further info about this project can be found [here](https://github.com/k3idi/Ferrofluid-Display).
 
@@ -19,7 +17,6 @@ Further info about this project can be found [here](https://github.com/k3idi/Fer
 
 
 ### Pitch Identifier
-> State of the project: revised
 
 Further info about the failed version can be found [here](https://github.com/k3idi/Pitch-Identifier) and the revised version can be found [here](https://github.com/k3idi/Pitch-Identifier-Revised).
 
@@ -29,7 +26,6 @@ Failed version             |  Revised version
 
 
 ### Remote Weather Station
-> State of the project: planning
 
 Further info about this project can be found [here](https://github.com/k3idi/Remote-Weather-Station).
 
